@@ -1,0 +1,6 @@
+[book]
+authors = ["Kevin Nguyen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Chess Programming In Rust"
